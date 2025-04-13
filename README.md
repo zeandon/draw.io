@@ -1,2 +1,2 @@
-# draw.io
-存放draw.io文件
+# huawei_AP
+存放AP相关的draw.io图片
