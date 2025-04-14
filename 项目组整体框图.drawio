@@ -8,7 +8,7 @@
           <mxGeometry x="840" y="80" width="310" height="370" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="80" width="335" height="370" as="geometry" />
+          <mxGeometry x="465" y="250" width="335" height="200" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="520" width="700" height="260" as="geometry" />
@@ -38,16 +38,16 @@
           <mxGeometry x="695" y="540" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-7" value="数据分析与算法设计" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="100" width="230" height="40" as="geometry" />
+          <mxGeometry x="520" y="262.38" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-8" value="Wi-Fi探索新技术应用" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="865" y="100" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/chart-analysis-analytics-data_analytics-pie-128.png" vertex="1" parent="1">
-          <mxGeometry x="579.75" y="170" width="110.5" height="110.5" as="geometry" />
+          <mxGeometry x="494.88" y="310.26" width="110.5" height="110.5" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/746_Algorithm_business_foretelling_pattern_plan_Business_Management-128.png" vertex="1" parent="1">
-          <mxGeometry x="568.5" y="298.88" width="128" height="128" as="geometry" />
+          <mxGeometry x="647.13" y="298.88" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/robot-128.png" vertex="1" parent="1">
           <mxGeometry x="1037.56" y="159.62" width="70" height="70" as="geometry" />
