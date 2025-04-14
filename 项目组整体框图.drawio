@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="_CEMp7yR_rG9hr94DZXn">
-    <mxGraphModel dx="1144" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="947" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,10 +137,10 @@
           <mxGeometry x="460" y="-120" width="800" height="260" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-71" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="897.5" y="-30" width="150" height="130" as="geometry" />
+          <mxGeometry x="925.44" y="-10" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-76" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;智能Wi-Fi原型环境搭建&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=28;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-101" width="240" height="40" as="geometry" />
+          <mxGeometry x="740" y="-110" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-77" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -170,13 +170,16 @@
           <mxGeometry x="546.25" y="35" width="47.12" height="85" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-87" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="1035" y="-100" width="215" height="140" as="geometry" />
+          <mxGeometry x="1030" y="-100" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-88" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/chart-analysis-analytics-data_analytics-pie-128.png" vertex="1" parent="1">
-          <mxGeometry x="1157.49" y="-70" width="50" height="50" as="geometry" />
+          <mxGeometry x="1155" y="-75" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/746_Algorithm_business_foretelling_pattern_plan_Business_Management-128.png" vertex="1" parent="1">
-          <mxGeometry x="1077.49" y="-75" width="60" height="60" as="geometry" />
+          <mxGeometry x="1075" y="-80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dmIovVmLTL2OazpM1b-94" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="822.5" y="-65" width="137.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="W9dmIovVmLTL2OazpM1b-91" value="Multi-link" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="662" y="20.000000000000007" width="120.25" height="32.25" as="geometry" />
@@ -189,6 +192,18 @@
               <mxPoint x="687.5" y="84.11000000000001" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W9dmIovVmLTL2OazpM1b-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/robot-128.png" vertex="1" parent="1">
+          <mxGeometry x="865.44" y="-52.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dmIovVmLTL2OazpM1b-98" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dmIovVmLTL2OazpM1b-99" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="967.5" y="15" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dmIovVmLTL2OazpM1b-100" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="977.5" y="20" width="10" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
