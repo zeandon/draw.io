@@ -24,7 +24,7 @@
         <mxCell id="69ecfefc5c41e42c-2" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="470" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="69ecfefc5c41e42c-8" value="Mobile" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+        <mxCell id="69ecfefc5c41e42c-8" value="Mobile" style="image;html=1;labelBackgroundColor=none;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="600" y="610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-10" value="Laptop" style="image;html=1;labelBackgroundColor=none;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelBorderColor=none;" parent="1" vertex="1">
@@ -59,6 +59,15 @@
             <mxPoint x="660" y="475" as="sourcePoint" />
             <mxPoint x="560" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rE1h04e3eO2_Yp-pEXnq-8" value="CH1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="545" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rE1h04e3eO2_Yp-pEXnq-9" value="CH1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="455" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rE1h04e3eO2_Yp-pEXnq-10" value="CH1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="545" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
