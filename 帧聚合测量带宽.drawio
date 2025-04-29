@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="69ecfefc5c41e42c-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="470" y="530" width="80" height="80" as="geometry" />
+        <mxCell id="69ecfefc5c41e42c-1" value="AP" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="540" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-10" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="110" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f8RlxUwIZQ4CozIXVGGj-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="f8RlxUwIZQ4CozIXVGGj-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;G&lt;sub style=&quot;&quot;&gt;snd&lt;/sub&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f8RlxUwIZQ4CozIXVGGj-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="460" y="520" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f8RlxUwIZQ4CozIXVGGj-19" value="&lt;font size=&quot;1&quot;&gt;D&lt;sub&gt;ag&lt;/sub&gt;+T&lt;sub&gt;Q&lt;/sub&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
