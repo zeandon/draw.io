@@ -67,8 +67,14 @@
         <mxCell id="s0vDsm39wnMKySvazcI9-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="259" y="755" width="321" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="s0vDsm39wnMKySvazcI9-29" value="通信主控" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="s0vDsm39wnMKySvazcI9-29" value="WiFi" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="770" width="264" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0vDsm39wnMKySvazcI9-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="755" width="321" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s0vDsm39wnMKySvazcI9-31" value="以太网" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="770" width="264" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
