@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="第 1 页" id="q5cc_2sqV_Y6mfMXJpbw">
-    <mxGraphModel dx="1610" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2198" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,20 +58,17 @@
         <mxCell id="s0vDsm39wnMKySvazcI9-22" value="PSRAM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="21.5" y="790" width="81" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s0vDsm39wnMKySvazcI9-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="223" y="600" width="321" height="270" as="geometry" />
+        <mxCell id="s0vDsm39wnMKySvazcI9-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="259" y="600" width="321" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="s0vDsm39wnMKySvazcI9-24" value="存储单元" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="251.5" y="615" width="264" height="40" as="geometry" />
+        <mxCell id="s0vDsm39wnMKySvazcI9-24" value="电池" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="615" width="264" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s0vDsm39wnMKySvazcI9-25" value="SD卡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="434.5" y="670" width="81" height="40" as="geometry" />
+        <mxCell id="s0vDsm39wnMKySvazcI9-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="259" y="755" width="321" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="s0vDsm39wnMKySvazcI9-26" value="SRAM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="434.5" y="730" width="81" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s0vDsm39wnMKySvazcI9-27" value="PSRAM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="434.5" y="790" width="81" height="40" as="geometry" />
+        <mxCell id="s0vDsm39wnMKySvazcI9-29" value="通信主控" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="770" width="264" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
