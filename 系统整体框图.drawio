@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="第 1 页" id="pKc-0fsCJnXh5lSlrJxE">
-    <mxGraphModel dx="2102" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2628" dy="2864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,6 +191,20 @@
         <mxCell id="vzLI47ru9TdL0x297h-k-5" value="输出判断结果与判据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;fontSize=31;" vertex="1" connectable="0" parent="vzLI47ru9TdL0x297h-k-4">
           <mxGeometry x="-0.0719" y="-1" relative="1" as="geometry">
             <mxPoint x="-169" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzLI47ru9TdL0x297h-k-8" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;strokeWidth=3;fontSize=16;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c4J03BK6JEEjcCoJXsCd-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2310" y="400" as="sourcePoint" />
+            <mxPoint x="1570" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2600" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzLI47ru9TdL0x297h-k-10" value="返回判断结果给嵌入式设备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;fontSize=31;" vertex="1" connectable="0" parent="vzLI47ru9TdL0x297h-k-8">
+          <mxGeometry x="-0.0719" y="-1" relative="1" as="geometry">
+            <mxPoint x="-236" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
