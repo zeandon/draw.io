@@ -221,8 +221,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-48" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="557.75" width="50" height="41.5" as="geometry" />
+        <mxCell id="nnHkq_QW9rsvorgMnTNj-51" value="ADC&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="557.5" width="65" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
