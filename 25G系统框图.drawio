@@ -47,7 +47,7 @@
           <mxGeometry x="1230" y="850" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-67" value="未知模型电路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="485" width="310" height="100" as="geometry" />
+          <mxGeometry x="1540" y="980" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-71" value="AMP&amp;nbsp;&amp;nbsp;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="845" width="40" height="50" as="geometry" />
@@ -123,6 +123,22 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="870" as="sourcePoint" />
             <mxPoint x="1360" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nnHkq_QW9rsvorgMnTNj-91" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="1029.94" as="sourcePoint" />
+            <mxPoint x="1520" y="1029.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nnHkq_QW9rsvorgMnTNj-92" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nnHkq_QW9rsvorgMnTNj-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="1260.53" as="sourcePoint" />
+            <mxPoint x="220" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1700" y="1290" />
+              <mxPoint x="220" y="1280" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
