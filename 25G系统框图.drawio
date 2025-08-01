@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="第 1 页" id="TxVx9BHhzF-iOkBE51dI">
-    <mxGraphModel dx="568" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nnHkq_QW9rsvorgMnTNj-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="370" y="700" width="1110" height="660" as="geometry" />
+          <mxGeometry x="370" y="700" width="910" height="520" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-69" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="420" y="730" width="510" height="300" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="740" y="1115" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-67" value="未知模型电路" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="980" width="310" height="100" as="geometry" />
+          <mxGeometry x="1344" y="955" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-71" value="AMP&amp;nbsp;&amp;nbsp;" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="1110" width="40" height="50" as="geometry" />
@@ -65,12 +65,12 @@
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1450" y="852.4399999999999" as="sourcePoint" />
-            <mxPoint x="1520" y="851.91" as="targetPoint" />
+            <mxPoint x="1254" y="827.4399999999999" as="sourcePoint" />
+            <mxPoint x="1324" y="826.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-77" value="已知模型电路" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="822.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1344" y="797.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-78" value="串口屏" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1031" y="1060" width="180" height="50" as="geometry" />
@@ -127,8 +127,8 @@
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-91" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1450" y="1029.94" as="sourcePoint" />
-            <mxPoint x="1520" y="1029.41" as="targetPoint" />
+            <mxPoint x="1254" y="1004.94" as="sourcePoint" />
+            <mxPoint x="1324" y="1004.4100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-92" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nnHkq_QW9rsvorgMnTNj-67" edge="1">
@@ -136,7 +136,7 @@
             <mxPoint x="1210" y="1260.53" as="sourcePoint" />
             <mxPoint x="220" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1700" y="1290" />
+              <mxPoint x="1500" y="1290" />
               <mxPoint x="220" y="1280" />
             </Array>
           </mxGeometry>
