@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nnHkq_QW9rsvorgMnTNj-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="350" y="710" width="580" height="520" as="geometry" />
+          <mxGeometry x="270" y="710" width="660" height="520" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-69" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="420" y="730" width="450" height="270" as="geometry" />
@@ -150,11 +150,11 @@
         <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-5" value="DAC&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="760" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-6" value="输出选择器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-6" value="输&lt;div&gt;出&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;&lt;div&gt;择&lt;/div&gt;&lt;div&gt;器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="950" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-7" value="输入选择器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="990" width="120" height="60" as="geometry" />
+        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-7" value="输&lt;div&gt;入&lt;div&gt;选&lt;/div&gt;&lt;div&gt;择&lt;/div&gt;&lt;div&gt;器&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="910" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-8" value="探测信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="840" width="70" height="40" as="geometry" />
