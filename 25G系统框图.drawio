@@ -26,7 +26,7 @@
           <mxGeometry x="660" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-56" value="比较器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-57" value="学习算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="830" width="120" height="60" as="geometry" />
@@ -109,7 +109,7 @@
             <mxPoint x="660" y="980" as="sourcePoint" />
             <mxPoint x="660" y="1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="950" />
+              <mxPoint x="620" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
