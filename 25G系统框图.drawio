@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="第 1 页" id="TxVx9BHhzF-iOkBE51dI">
-    <mxGraphModel dx="1051" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="725" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,9 +13,9 @@
         <mxCell id="nnHkq_QW9rsvorgMnTNj-74" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="1055" width="450" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-53" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="nnHkq_QW9rsvorgMnTNj-60" edge="1">
+        <mxCell id="nnHkq_QW9rsvorgMnTNj-53" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="8Zb6MY9QRAV1Ua4hnEa3-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70.71428571428571" y="860" as="sourcePoint" />
+            <mxPoint x="60" y="965" as="sourcePoint" />
             <mxPoint x="400" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -44,7 +44,7 @@
           <mxGeometry x="570" y="1120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-65" value="DAC&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1115" width="65" height="40" as="geometry" />
+          <mxGeometry x="670" y="1115" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-67" value="未知模型电路" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1344" y="955" width="310" height="100" as="geometry" />
@@ -158,6 +158,24 @@
         </mxCell>
         <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-8" value="探测信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="840" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Zb6MY9QRAV1Ua4hnEa3-7" target="nnHkq_QW9rsvorgMnTNj-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1050" as="sourcePoint" />
+            <mxPoint x="490" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-10" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="8Zb6MY9QRAV1Ua4hnEa3-7" target="8Zb6MY9QRAV1Ua4hnEa3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1100" as="sourcePoint" />
+            <mxPoint x="670" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="1135" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
