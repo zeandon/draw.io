@@ -8,7 +8,7 @@
           <mxGeometry x="370" y="700" width="910" height="520" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-69" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="420" y="730" width="510" height="300" as="geometry" />
+          <mxGeometry x="420" y="730" width="450" height="270" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-74" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="1055" width="510" height="135" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="460" y="840" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-61" value="FPGA" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="616" y="1050" width="100" height="40" as="geometry" />
+          <mxGeometry x="480" y="1060" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-62" value="DDS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="1105" width="120" height="60" as="geometry" />
