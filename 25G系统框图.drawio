@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="第 1 页" id="TxVx9BHhzF-iOkBE51dI">
-    <mxGraphModel dx="1051" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nnHkq_QW9rsvorgMnTNj-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="370" y="700" width="910" height="520" as="geometry" />
+          <mxGeometry x="350" y="710" width="910" height="520" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-69" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="420" y="730" width="450" height="270" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-74" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1055" width="510" height="135" as="geometry" />
+          <mxGeometry x="420" y="1055" width="450" height="135" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-53" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="nnHkq_QW9rsvorgMnTNj-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,21 +41,21 @@
           <mxGeometry x="480" y="1060" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-62" value="DDS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1105" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="1120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-65" value="DAC&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="740" y="1115" width="65" height="40" as="geometry" />
+          <mxGeometry x="660" y="1115" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-67" value="未知模型电路" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1344" y="955" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-71" value="AMP&amp;nbsp;&amp;nbsp;" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1110" width="40" height="50" as="geometry" />
+          <mxGeometry x="770" y="1110" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
+        <mxCell id="nnHkq_QW9rsvorgMnTNj-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;startArrow=classic;startFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="870" as="sourcePoint" />
-            <mxPoint x="1010" y="869.47" as="targetPoint" />
+            <mxPoint x="600" y="1030.53" as="sourcePoint" />
+            <mxPoint x="670" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-73" value="UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nnHkq_QW9rsvorgMnTNj-72" vertex="1" connectable="0">
