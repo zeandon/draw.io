@@ -31,7 +31,7 @@
           <mxGeometry x="424" y="850" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-55" value="已知模型&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;响应函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="619" y="793" width="120" height="40" as="geometry" />
+          <mxGeometry x="619" y="793" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-56" value="比较器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="554" y="929" width="70" height="40" as="geometry" />
