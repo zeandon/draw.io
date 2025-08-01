@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="第 1 页" id="TxVx9BHhzF-iOkBE51dI">
-    <mxGraphModel dx="678" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1001" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-69" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="414" y="850" width="540" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nnHkq_QW9rsvorgMnTNj-74" target="nnHkq_QW9rsvorgMnTNj-69">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-74" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="1090" width="530" height="130" as="geometry" />
@@ -53,17 +50,6 @@
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-71" value="AMP&amp;nbsp;&amp;nbsp;" style="triangle;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="870" y="1135" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="nnHkq_QW9rsvorgMnTNj-74" source="nnHkq_QW9rsvorgMnTNj-69">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="649" y="1060.53" as="sourcePoint" />
-            <mxPoint x="719" y="1060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-73" value="UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="nnHkq_QW9rsvorgMnTNj-72" vertex="1" connectable="0">
-          <mxGeometry x="0.2673" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-8" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="8Zb6MY9QRAV1Ua4hnEa3-15" source="nnHkq_QW9rsvorgMnTNj-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -226,6 +212,15 @@
         </mxCell>
         <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-44" value="已知模型输出参数、控制信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="880" y="797" as="geometry" />
+        </mxCell>
+        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-45" value="FIR滤波器参数、输出信号参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=15;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="794.5" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="8Zb6MY9QRAV1Ua4hnEa3-46" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nnHkq_QW9rsvorgMnTNj-69" target="nnHkq_QW9rsvorgMnTNj-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1050" as="sourcePoint" />
+            <mxPoint x="681" y="1130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
