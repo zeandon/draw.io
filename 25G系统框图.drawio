@@ -49,15 +49,15 @@
         <mxCell id="nnHkq_QW9rsvorgMnTNj-71" value="AMP&amp;nbsp;&amp;nbsp;" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="1135" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;startArrow=classic;startFill=1;" parent="1" edge="1">
+        <mxCell id="nnHkq_QW9rsvorgMnTNj-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="nnHkq_QW9rsvorgMnTNj-74" source="nnHkq_QW9rsvorgMnTNj-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="1110.53" as="sourcePoint" />
-            <mxPoint x="1130" y="1110" as="targetPoint" />
+            <mxPoint x="649" y="1060.53" as="sourcePoint" />
+            <mxPoint x="719" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-73" value="UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nnHkq_QW9rsvorgMnTNj-72" vertex="1" connectable="0">
+        <mxCell id="nnHkq_QW9rsvorgMnTNj-73" value="UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="nnHkq_QW9rsvorgMnTNj-72" vertex="1" connectable="0">
           <mxGeometry x="0.2673" y="2" relative="1" as="geometry">
-            <mxPoint x="-14" y="-8" as="offset" />
+            <mxPoint x="-2" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
