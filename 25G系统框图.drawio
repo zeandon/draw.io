@@ -69,17 +69,6 @@
         <mxCell id="nnHkq_QW9rsvorgMnTNj-78" value="串口屏" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1031" y="740" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-79" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="690.53" as="sourcePoint" />
-            <mxPoint x="1070" y="690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nnHkq_QW9rsvorgMnTNj-80" value="UART" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nnHkq_QW9rsvorgMnTNj-79" vertex="1" connectable="0">
-          <mxGeometry x="0.2673" y="2" relative="1" as="geometry">
-            <mxPoint x="-14" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nnHkq_QW9rsvorgMnTNj-82" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nnHkq_QW9rsvorgMnTNj-60" target="nnHkq_QW9rsvorgMnTNj-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="524.71" y="949.66" as="sourcePoint" />
