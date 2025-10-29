@@ -1,14 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="第 1 页" id="DhUFVbz8MfObYR7Nu4Ej">
-    <mxGraphModel dx="653" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="457" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0Ni0I1CNY20JFycQPb-U-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;" edge="1" parent="1" source="0Ni0I1CNY20JFycQPb-U-1" target="0Ni0I1CNY20JFycQPb-U-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0Ni0I1CNY20JFycQPb-U-6" value="JTAG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="0Ni0I1CNY20JFycQPb-U-4">
+          <mxGeometry x="0.3513" relative="1" as="geometry">
+            <mxPoint x="-18" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0Ni0I1CNY20JFycQPb-U-1" value="GWU2X下载器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ni0I1CNY20JFycQPb-U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;" edge="1" parent="1" source="0Ni0I1CNY20JFycQPb-U-2" target="0Ni0I1CNY20JFycQPb-U-3">
           <mxGeometry relative="1" as="geometry">
@@ -18,11 +23,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0Ni0I1CNY20JFycQPb-U-7" value="IO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="0Ni0I1CNY20JFycQPb-U-5">
+          <mxGeometry x="0.0133" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0Ni0I1CNY20JFycQPb-U-2" value="GW1N-UV9最小系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ni0I1CNY20JFycQPb-U-3" value="板载外设" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
