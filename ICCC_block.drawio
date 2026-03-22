@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="TIj3jtxB-yDc39kKMUpx">
-    <mxGraphModel dx="1311" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,23 +10,23 @@
         <mxCell id="wvxbd0_VRZjkJRXSfyLV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="360" width="471" x="179" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="wvxbd0_VRZjkJRXSfyLV-5" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Base Board&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="189" y="350" as="geometry" />
+        <mxCell id="wvxbd0_VRZjkJRXSfyLV-5" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Control System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="141" x="187" y="360" as="geometry" />
         </mxCell>
         <mxCell id="wvxbd0_VRZjkJRXSfyLV-6" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;RF Module&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="44.5" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="wvxbd0_VRZjkJRXSfyLV-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Module1" vertex="1">
+        <mxCell id="wvxbd0_VRZjkJRXSfyLV-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="RM500U-CNV Module1" vertex="1">
           <mxGeometry height="100" width="230" x="164.5" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="wvxbd0_VRZjkJRXSfyLV-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Module2" vertex="1">
+        <mxCell id="wvxbd0_VRZjkJRXSfyLV-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="RM500U-CNV&amp;nbsp;Module2" vertex="1">
           <mxGeometry height="100" width="230" x="454.5" y="900" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=9;" value="UART" vertex="1">
-          <mxGeometry height="20" width="50" x="310" y="710" as="geometry" />
+          <mxGeometry height="20" width="50" x="310" y="780" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=9;" value="UART" vertex="1">
-          <mxGeometry height="20" width="50" x="530" y="710" as="geometry" />
+          <mxGeometry height="20" width="50" x="530" y="780" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="5G ANT2" vertex="1">
           <mxGeometry height="30" width="70" x="234.5" y="1040" as="geometry" />
@@ -84,13 +84,13 @@
           <mxGeometry height="60" width="120" x="354" y="510" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;XTAL&lt;br&gt;8MHz&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="730" y="590" as="geometry" />
+          <mxGeometry height="40" width="70" x="720" y="590" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;XTAL&lt;br&gt;32.768kHz&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="730" y="680" as="geometry" />
+          <mxGeometry height="40" width="80" x="710" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="BagaOBErLaER2k5rXV1R-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="5Pin" vertex="1">
-          <mxGeometry height="60" width="120" x="730" y="480" as="geometry" />
+        <mxCell id="BagaOBErLaER2k5rXV1R-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Download Interface" vertex="1">
+          <mxGeometry height="40" width="120" x="695" y="500" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="USART&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HMI&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="730" y="390" as="geometry" />
@@ -116,11 +116,11 @@
         <mxCell id="BagaOBErLaER2k5rXV1R-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Statu LED" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="BagaOBErLaER2k5rXV1R-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Statu LED" vertex="1">
+        <mxCell id="BagaOBErLaER2k5rXV1R-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="RF Statu LED" vertex="1">
           <mxGeometry height="30" width="85" x="328" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="BagaOBErLaER2k5rXV1R-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Statu LED" vertex="1">
-          <mxGeometry height="30" width="80" x="618.75" y="1040" as="geometry" />
+        <mxCell id="BagaOBErLaER2k5rXV1R-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="RF Statu LED" vertex="1">
+          <mxGeometry height="30" width="91.25" x="618.75" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="SIM 1" vertex="1">
           <mxGeometry height="40" width="60" x="74.5" y="900" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry height="60" width="120" x="880" y="390" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="TF Card" vertex="1">
-          <mxGeometry height="60" width="120" x="880" y="480" as="geometry" />
+          <mxGeometry height="40" width="90" x="895" y="510" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Power Switch" vertex="1">
           <mxGeometry height="60" width="120" x="880" y="590" as="geometry" />
@@ -165,11 +165,11 @@
         <mxCell id="BagaOBErLaER2k5rXV1R-55" edge="1" parent="1" style="endArrow=none;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.958;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="658.58" y="1020" />
-              <mxPoint x="658.58" y="1010" />
+              <mxPoint x="664.2" y="1020" />
+              <mxPoint x="664.2" y="1010" />
             </Array>
-            <mxPoint x="658.58" y="1040" as="sourcePoint" />
-            <mxPoint x="658.58" y="1000" as="targetPoint" />
+            <mxPoint x="664.2" y="1040" as="sourcePoint" />
+            <mxPoint x="664.2" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-59" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
@@ -201,6 +201,12 @@
             <mxPoint x="569.38" y="900" as="sourcePoint" />
             <mxPoint x="569.38" y="870" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="471" x="1130" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-68" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Power System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="1140" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
