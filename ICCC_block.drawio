@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="TIj3jtxB-yDc39kKMUpx">
-    <mxGraphModel dx="773" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
         <mxCell id="BagaOBErLaER2k5rXV1R-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="SIM 3" vertex="1">
           <mxGeometry height="40" width="60" x="714.5" y="930" as="geometry" />
         </mxCell>
-        <mxCell id="BagaOBErLaER2k5rXV1R-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Signal Level Conversion" vertex="1">
+        <mxCell id="BagaOBErLaER2k5rXV1R-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Signal Level Conversion（3.3V -&amp;gt; 1.8V）" vertex="1">
           <mxGeometry height="40" width="521.5" x="163" y="830" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="UART to USB" vertex="1">
@@ -170,6 +170,36 @@
             </Array>
             <mxPoint x="658.58" y="1040" as="sourcePoint" />
             <mxPoint x="658.58" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-59" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="134.5" y="979.88" as="sourcePoint" />
+            <mxPoint x="164.5" y="979.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-60" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="134.5" y="919.88" as="sourcePoint" />
+            <mxPoint x="164.5" y="919.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-61" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="684.5" y="949.88" as="sourcePoint" />
+            <mxPoint x="714.5" y="949.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-63" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="279.38" y="900" as="sourcePoint" />
+            <mxPoint x="279.38" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-66" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="569.38" y="900" as="sourcePoint" />
+            <mxPoint x="569.38" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
