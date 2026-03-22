@@ -158,6 +158,21 @@
         <mxCell id="BagaOBErLaER2k5rXV1R-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="TXS0108EPWR&lt;br&gt;（Level Conversion）" vertex="1">
           <mxGeometry height="60" width="140" x="880" y="850" as="geometry" />
         </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="UART to USB" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="FAN" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="BOOT" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="TF Card" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Power Switch" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="590" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
