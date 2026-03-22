@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="TIj3jtxB-yDc39kKMUpx">
-    <mxGraphModel dx="1774" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,16 +122,16 @@
         <mxCell id="BagaOBErLaER2k5rXV1R-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="TYPE-C" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="BagaOBErLaER2k5rXV1R-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="TP4056&lt;br&gt;（Battery Charger）" vertex="1">
+        <mxCell id="BagaOBErLaER2k5rXV1R-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Battery Charger" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="BagaOBErLaER2k5rXV1R-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="FP6298&lt;br&gt;（Boost）" vertex="1">
+        <mxCell id="BagaOBErLaER2k5rXV1R-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Boost" vertex="1">
           <mxGeometry height="60" width="120" x="380" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="BagaOBErLaER2k5rXV1R-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="AMS1117&lt;br&gt;（LDO）" vertex="1">
+        <mxCell id="BagaOBErLaER2k5rXV1R-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="LDO" vertex="1">
           <mxGeometry height="60" width="120" x="530" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="BagaOBErLaER2k5rXV1R-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="AMS1117&lt;br&gt;（LDO）" vertex="1">
+        <mxCell id="BagaOBErLaER2k5rXV1R-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="LDO" vertex="1">
           <mxGeometry height="60" width="120" x="680" y="90" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Battery" vertex="1">
@@ -150,10 +150,13 @@
           <mxGeometry height="60" width="120" x="680" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="SIM 2" vertex="1">
-          <mxGeometry height="60" width="120" x="780" y="980" as="geometry" />
+          <mxGeometry height="60" width="120" x="880" y="970" as="geometry" />
         </mxCell>
         <mxCell id="BagaOBErLaER2k5rXV1R-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="SIM 3" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="BagaOBErLaER2k5rXV1R-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="TXS0108EPWR&lt;br&gt;（Level Conversion）" vertex="1">
+          <mxGeometry height="60" width="140" x="880" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
