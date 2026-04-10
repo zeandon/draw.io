@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="v_hl07Twp9N3kSuLBNtw">
-    <mxGraphModel dx="855" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,8 +88,8 @@
         <mxCell id="yD7psjr0zWhTOO5eLe96-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=12;fontFamily=Times New Roman;" value="3.3V" vertex="1">
           <mxGeometry height="30" width="50" x="740" y="917.5" as="geometry" />
         </mxCell>
-        <mxCell id="yD7psjr0zWhTOO5eLe96-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=12;fontFamily=Times New Roman;" value="for RF module" vertex="1">
-          <mxGeometry height="30" width="90" x="720" y="713.74" as="geometry" />
+        <mxCell id="yD7psjr0zWhTOO5eLe96-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=12;fontFamily=Times New Roman;" value="for RM500U-CNV" vertex="1">
+          <mxGeometry height="30" width="120" x="705" y="713.74" as="geometry" />
         </mxCell>
         <mxCell id="yD7psjr0zWhTOO5eLe96-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=12;fontFamily=Times New Roman;" value="for USART HMI" vertex="1">
           <mxGeometry height="30" width="110" x="710" y="1085" as="geometry" />
