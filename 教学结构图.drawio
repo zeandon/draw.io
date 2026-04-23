@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Claude">
   <diagram name="毕业设计论文流程" id="thesis-flow">
-    <mxGraphModel dx="1496" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eM-mXNMEPbMlZxObOynL-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="120" width="590" x="180" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="120" width="590" x="180" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="120" width="590" x="180" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="模拟电子线路（实验）" vertex="1">
+          <mxGeometry height="60" width="150" x="350" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数字电子线路（实验）" vertex="1">
+          <mxGeometry height="60" width="140" x="550" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="微积分" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="大学物理" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="电路理论" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="嵌入式系统设计" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="计算机组成原理" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="基础理论课程" vertex="1">
+          <mxGeometry height="30" width="100" x="190" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="专业基础课程" vertex="1">
+          <mxGeometry height="30" width="100" x="190" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="专业核心课程" vertex="1">
+          <mxGeometry height="30" width="100" x="190" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-15" edge="1" parent="1" source="eM-mXNMEPbMlZxObOynL-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="eM-mXNMEPbMlZxObOynL-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="220" as="sourcePoint" />
+            <mxPoint x="480" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eM-mXNMEPbMlZxObOynL-16" edge="1" parent="1" source="eM-mXNMEPbMlZxObOynL-9" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="eM-mXNMEPbMlZxObOynL-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="370" as="sourcePoint" />
+            <mxPoint x="470" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
