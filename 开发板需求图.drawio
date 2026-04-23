@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=6;" value="" vertex="1">
-          <mxGeometry height="320" width="340" x="390" y="160" as="geometry" />
+          <mxGeometry height="320" width="340" x="380" y="160" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=6;" value="" vertex="1">
-          <mxGeometry height="320" width="340" x="30" y="160" as="geometry" />
+          <mxGeometry height="320" width="330" x="30" y="160" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-19" edge="1" parent="1" source="CqS6rSxk_a3aW-rluGeJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CqS6rSxk_a3aW-rluGeJ-16" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -56,13 +56,13 @@
           <mxGeometry height="60" width="120" x="400" y="400" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="提供易上手的外设" vertex="1">
-          <mxGeometry height="60" width="120" x="590" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="580" y="220" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="尺寸合适" vertex="1">
-          <mxGeometry height="60" width="120" x="590" y="310" as="geometry" />
+          <mxGeometry height="60" width="120" x="580" y="310" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="价格低" vertex="1">
-          <mxGeometry height="60" width="120" x="590" y="400" as="geometry" />
+          <mxGeometry height="60" width="120" x="580" y="400" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="教学目标" vertex="1">
           <mxGeometry height="30" width="90" x="155" y="176" as="geometry" />
