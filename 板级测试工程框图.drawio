@@ -4,38 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5pWRosUDKXewnIOSsKq3-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="110" width="600" x="420" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWRosUDKXewnIOSsKq3-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="110" width="600" x="980" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWRosUDKXewnIOSsKq3-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="110" width="380" x="1130" y="290" as="geometry" />
+        </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HDMI_driver" vertex="1">
-          <mxGeometry height="60" width="120" x="330" y="270" as="geometry" />
+          <mxGeometry height="60" width="120" x="870" y="315" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="rPLL" vertex="1">
-          <mxGeometry height="60" width="120" x="420" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="530" y="315" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CLKDIV" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="700" y="315" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reset_Sync" vertex="1">
           <mxGeometry height="60" width="120" x="530" y="190" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CLKDIV" vertex="1">
-          <mxGeometry height="60" width="120" x="630" y="310" as="geometry" />
+          <mxGeometry height="60" width="120" x="1120" y="495" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BCD_counter" vertex="1">
-          <mxGeometry height="60" width="120" x="760" y="290" as="geometry" />
+          <mxGeometry height="60" width="120" x="1280" y="495" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="seven_seg_driver" vertex="1">
-          <mxGeometry height="60" width="120" x="730" y="180" as="geometry" />
+          <mxGeometry height="60" width="120" x="1440" y="495" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BTN_to_LED" vertex="1">
           <mxGeometry height="60" width="120" x="900" y="180" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rainbow_effect" vertex="1">
-          <mxGeometry height="60" width="120" x="940" y="330" as="geometry" />
+          <mxGeometry height="60" width="120" x="1220" y="315" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WS2812_driver" vertex="1">
-          <mxGeometry height="60" width="120" x="980" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="5pWRosUDKXewnIOSsKq3-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="440" y="510" as="geometry" />
+          <mxGeometry height="60" width="120" x="1380" y="315" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
