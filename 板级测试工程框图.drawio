@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="-zyWv1tB62Rtk2RKIU-P">
-    <mxGraphModel dx="1247" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1496" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry height="110" width="600" x="420" y="290" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="110" width="600" x="980" y="470" as="geometry" />
+          <mxGeometry height="110" width="600" x="400" y="600" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="110" width="380" x="1130" y="290" as="geometry" />
+          <mxGeometry height="110" width="380" x="530" y="430" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HDMI_driver" vertex="1">
           <mxGeometry height="60" width="120" x="870" y="315" as="geometry" />
@@ -23,25 +23,25 @@
           <mxGeometry height="60" width="120" x="700" y="315" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Reset_Sync" vertex="1">
-          <mxGeometry height="60" width="120" x="630" y="495" as="geometry" />
+          <mxGeometry height="60" width="120" x="622.5" y="170" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CLKDIV" vertex="1">
-          <mxGeometry height="60" width="120" x="1120" y="495" as="geometry" />
+          <mxGeometry height="60" width="120" x="540" y="625" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BCD_counter" vertex="1">
-          <mxGeometry height="60" width="120" x="1280" y="495" as="geometry" />
+          <mxGeometry height="60" width="120" x="700" y="625" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="seven_seg_driver" vertex="1">
-          <mxGeometry height="60" width="120" x="1440" y="495" as="geometry" />
+          <mxGeometry height="60" width="120" x="860" y="625" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BTN_to_LED" vertex="1">
-          <mxGeometry height="60" width="120" x="785" y="495" as="geometry" />
+          <mxGeometry height="60" width="120" x="777.5" y="170" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rainbow_effect" vertex="1">
-          <mxGeometry height="60" width="120" x="1220" y="315" as="geometry" />
+          <mxGeometry height="60" width="120" x="620" y="455" as="geometry" />
         </mxCell>
         <mxCell id="5pWRosUDKXewnIOSsKq3-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WS2812_driver" vertex="1">
-          <mxGeometry height="60" width="120" x="1380" y="315" as="geometry" />
+          <mxGeometry height="60" width="120" x="780" y="455" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
