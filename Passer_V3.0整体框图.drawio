@@ -160,8 +160,8 @@
         <mxCell id="eBA5xv0xBqCS6EjnKS5M-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=12;fontFamily=Times New Roman;" value="CLK" vertex="1">
           <mxGeometry height="30" width="50" x="545" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="eBA5xv0xBqCS6EjnKS5M-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=12;fontFamily=Times New Roman;" value="Dupont wire" vertex="1">
-          <mxGeometry height="30" width="80" x="95" y="937.5" as="geometry" />
+        <mxCell id="eBA5xv0xBqCS6EjnKS5M-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=12;fontFamily=Times New Roman;" value="杜邦线" vertex="1">
+          <mxGeometry height="30" width="60" x="105" y="937.5" as="geometry" />
         </mxCell>
         <mxCell id="eBA5xv0xBqCS6EjnKS5M-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="排针接口" vertex="1">
           <mxGeometry height="57.75" width="100" x="45" y="877.25" as="geometry" />
