@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Q_WqmMvHzZCCrnNlXZ9i">
-    <mxGraphModel>
+    <mxGraphModel dx="419" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XJsshgIOECMuMdDwTxm8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="布局布线" vertex="1">
+          <mxGeometry height="60" width="90" x="330" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="下载" vertex="1">
+          <mxGeometry height="60" width="90" x="570" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="逻辑设计" vertex="1">
+          <mxGeometry height="60" width="90" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="逻辑综合" vertex="1">
+          <mxGeometry height="60" width="90" x="210" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="389.8" as="sourcePoint" />
+            <mxPoint x="330" y="389.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-9" edge="1" parent="1" source="XJsshgIOECMuMdDwTxm8-2" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="474" y="389.76" as="sourcePoint" />
+            <mxPoint x="504" y="389.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="389.8" as="sourcePoint" />
+            <mxPoint x="210" y="389.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" target="XJsshgIOECMuMdDwTxm8-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="474" y="389.76" as="sourcePoint" />
+            <mxPoint x="504" y="389.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="生成比特流" vertex="1">
+          <mxGeometry height="60" width="90" x="450" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="389.8" as="sourcePoint" />
+            <mxPoint x="450" y="389.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJsshgIOECMuMdDwTxm8-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="389.8" as="sourcePoint" />
+            <mxPoint x="570" y="389.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
