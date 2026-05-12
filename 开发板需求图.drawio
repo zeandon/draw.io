@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="8uULw-jZlAfK8PdivTPA">
-    <mxGraphModel dx="1496" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;创新目标&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="CqS6rSxk_a3aW-rluGeJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="独立完成外设的连线" vertex="1">
+        <mxCell id="CqS6rSxk_a3aW-rluGeJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="外设引脚可灵活配置" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="310" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预留可拓展的接口" vertex="1">
