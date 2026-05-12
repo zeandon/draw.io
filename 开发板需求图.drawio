@@ -35,10 +35,10 @@
           <mxGeometry height="60" width="120" x="80" y="220" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="外设引脚可灵活配置" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="310" as="geometry" />
+          <mxGeometry height="60" width="130" x="250" y="310" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预留可拓展的接口" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="220" as="geometry" />
+          <mxGeometry height="60" width="130" x="250" y="220" as="geometry" />
         </mxCell>
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-20" edge="1" parent="1" source="CqS6rSxk_a3aW-rluGeJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CqS6rSxk_a3aW-rluGeJ-17" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -67,8 +67,8 @@
         <mxCell id="CqS6rSxk_a3aW-rluGeJ-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="用户需求" vertex="1">
           <mxGeometry height="30" width="90" x="545" y="176" as="geometry" />
         </mxCell>
-        <mxCell id="CqS6rSxk_a3aW-rluGeJ-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="提供LED、开关、按键、数码管常规外设" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="400" as="geometry" />
+        <mxCell id="CqS6rSxk_a3aW-rluGeJ-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="提供LED、开关、按键、数码管等常规外设" vertex="1">
+          <mxGeometry height="60" width="130" x="250" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
