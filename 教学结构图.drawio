@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Claude">
   <diagram name="毕业设计论文流程" id="thesis-flow">
-    <mxGraphModel dx="1032" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,10 +13,7 @@
         <mxCell id="eM-mXNMEPbMlZxObOynL-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="80" width="590" x="180" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="eM-mXNMEPbMlZxObOynL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="电子线路设计、测试与实验（一）（二）" vertex="1">
-          <mxGeometry height="40" width="315" x="375" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="eM-mXNMEPbMlZxObOynL-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="数字电子线路基础" vertex="1">
+        <mxCell id="eM-mXNMEPbMlZxObOynL-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="模拟电子线路基础" vertex="1">
           <mxGeometry height="40" width="150" x="375" y="300" as="geometry" />
         </mxCell>
         <mxCell id="eM-mXNMEPbMlZxObOynL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="微积分" vertex="1">
@@ -55,8 +52,14 @@
             <mxPoint x="470" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FAGfJ598dUa2ZA8G_tN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="模拟电子线路基础" vertex="1">
+        <mxCell id="6FAGfJ598dUa2ZA8G_tN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="数字电子线路基础" vertex="1">
           <mxGeometry height="40" width="150" x="540" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="pRvDbHBXwF38_MSuOQLx-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="数字电子线路实验" vertex="1">
+          <mxGeometry height="40" width="150" x="540" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="pRvDbHBXwF38_MSuOQLx-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="模拟电子线路实验" vertex="1">
+          <mxGeometry height="40" width="150" x="375" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
