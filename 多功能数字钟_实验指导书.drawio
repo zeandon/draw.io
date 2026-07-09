@@ -280,7 +280,7 @@
         <mxCell id="my1MYDWh_POD4Y7IRrBY-11" parent="my1MYDWh_POD4Y7IRrBY-1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" value="开关、按键&lt;div&gt;输入检测&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="510" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="my1MYDWh_POD4Y7IRrBY-12" parent="my1MYDWh_POD4Y7IRrBY-1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" value="LED、数码管&lt;div&gt;输出驱动&lt;/div&gt;" vertex="1">
+        <mxCell id="my1MYDWh_POD4Y7IRrBY-12" parent="my1MYDWh_POD4Y7IRrBY-1" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" value="数码管&lt;div&gt;输出驱动&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="850" y="460" as="geometry" />
         </mxCell>
         <mxCell id="my1MYDWh_POD4Y7IRrBY-13" edge="1" parent="my1MYDWh_POD4Y7IRrBY-1" source="my1MYDWh_POD4Y7IRrBY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="my1MYDWh_POD4Y7IRrBY-12" value="">
