@@ -335,7 +335,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tZGExgc65eMQ0e9NVMpp" name="非门_原理">
-    <mxGraphModel dx="263" dy="145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="651" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,9 +354,11 @@
         <mxCell id="rGBncm8NhjrnPlrK4FRN-10" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=off;" value="" vertex="1">
           <mxGeometry height="20" width="75" x="360" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="rGBncm8NhjrnPlrK4FRN-11" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;inputs=3;" value="" vertex="1">
-          <mxGeometry height="60" width="100" x="370" y="60" as="geometry" />
-        </mxCell>
+        <object label="" inputs="3" id="rGBncm8NhjrnPlrK4FRN-11">
+          <mxCell parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1">
+            <mxGeometry height="60" width="100" x="370" y="60" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
