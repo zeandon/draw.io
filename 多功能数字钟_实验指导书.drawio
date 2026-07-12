@@ -464,13 +464,13 @@
           <mxGeometry height="10" width="40" x="260" y="185" as="geometry" />
         </mxCell>
         <mxCell id="2UL51iMCQf-Lu3jbFyHR-0" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" value="FPGA" vertex="1">
-          <mxGeometry height="30" width="50" x="350" y="175" as="geometry" />
+          <mxGeometry height="30" width="50" x="370" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="2UL51iMCQf-Lu3jbFyHR-1" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="47" vertex="1">
-          <mxGeometry height="20" width="30" x="320" y="180" as="geometry" />
+        <mxCell id="2UL51iMCQf-Lu3jbFyHR-1" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO47" vertex="1">
+          <mxGeometry height="20" width="30" x="330" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="2UL51iMCQf-Lu3jbFyHR-2" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="48" vertex="1">
-          <mxGeometry height="20" width="30" x="400" y="180" as="geometry" />
+        <mxCell id="2UL51iMCQf-Lu3jbFyHR-2" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO48" vertex="1">
+          <mxGeometry height="20" width="30" x="399" y="180" as="geometry" />
         </mxCell>
         <mxCell id="2UL51iMCQf-Lu3jbFyHR-4" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="SW4" vertex="1">
           <mxGeometry height="30" width="50" x="207.5" y="155" as="geometry" />
@@ -492,6 +492,12 @@
             <mxPoint x="525" y="177" as="sourcePoint" />
             <mxPoint x="535" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X1v9tnSZEbJ1JDVwDodV-3" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" value="输入外设" vertex="1">
+          <mxGeometry height="30" width="50" x="240" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X1v9tnSZEbJ1JDVwDodV-5" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" value="输出外设" vertex="1">
+          <mxGeometry height="30" width="50" x="520" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
