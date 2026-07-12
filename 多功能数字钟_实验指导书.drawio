@@ -494,7 +494,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X1v9tnSZEbJ1JDVwDodV-3" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" value="输入外设" vertex="1">
-          <mxGeometry height="30" width="50" x="240" y="130" as="geometry" />
+          <mxGeometry height="30" width="50" x="200" y="130" as="geometry" />
         </mxCell>
         <mxCell id="X1v9tnSZEbJ1JDVwDodV-5" parent="V4qUVziiSIrZFKOlBlO9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" value="输出外设" vertex="1">
           <mxGeometry height="30" width="50" x="520" y="130" as="geometry" />
