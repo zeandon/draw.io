@@ -515,10 +515,19 @@
     </mxGraphModel>
   </diagram>
   <diagram name="分频器实际连接图" id="sl_XJLjjNukAZWDUlYKE">
-    <mxGraphModel dx="1032" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cRVICH4EDKXIoINPcJ-r-0" />
         <mxCell id="cRVICH4EDKXIoINPcJ-r-1" parent="cRVICH4EDKXIoINPcJ-r-0" />
+        <mxCell id="XNURY-s_5bcbaobUmAza-18" parent="cRVICH4EDKXIoINPcJ-r-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="214" width="130" x="460" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XNURY-s_5bcbaobUmAza-19" parent="cRVICH4EDKXIoINPcJ-r-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="214" width="120" x="330" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XNURY-s_5bcbaobUmAza-20" parent="cRVICH4EDKXIoINPcJ-r-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="214" width="220" x="93.81" y="320" as="geometry" />
+        </mxCell>
         <mxCell id="cRVICH4EDKXIoINPcJ-r-7" parent="cRVICH4EDKXIoINPcJ-r-1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.crystal_1;" value="" vertex="1">
           <mxGeometry height="40" width="100" x="193.31" y="360" as="geometry" />
         </mxCell>
@@ -640,6 +649,15 @@
             <mxPoint x="527" y="400" as="sourcePoint" />
             <mxPoint x="480" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XNURY-s_5bcbaobUmAza-21" parent="cRVICH4EDKXIoINPcJ-r-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" value="输入外设" vertex="1">
+          <mxGeometry height="30" width="50" x="178.81" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XNURY-s_5bcbaobUmAza-22" parent="cRVICH4EDKXIoINPcJ-r-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" value="FPGA" vertex="1">
+          <mxGeometry height="30" width="50" x="365" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XNURY-s_5bcbaobUmAza-23" parent="cRVICH4EDKXIoINPcJ-r-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1" value="输出外设" vertex="1">
+          <mxGeometry height="30" width="50" x="500" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
