@@ -31,11 +31,23 @@
         <mxCell id="OG0b_hOuWOp6FHVCI662-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="段选信号" vertex="1">
           <mxGeometry height="30" width="60" x="530" y="350" as="geometry" />
         </mxCell>
+        <mxCell id="A7ynOdChD3DlCcE3iZN8-1" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display_with_dp;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="60" width="50" x="280" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="A7ynOdChD3DlCcE3iZN8-2" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display_with_dp;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="60" width="50" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="A7ynOdChD3DlCcE3iZN8-3" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display_with_dp;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="60" width="50" x="520" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="A7ynOdChD3DlCcE3iZN8-4" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display_with_dp;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="60" width="50" x="640" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="kTr0CGJIfYysX1IzL_gw" name="动态扫描原理">
-    <mxGraphModel dx="2584" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1496" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
