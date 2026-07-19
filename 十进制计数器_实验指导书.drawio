@@ -1,14 +1,44 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="电路图" id="rVCkrL_XqYwWZFXW6DUm">
-    <mxGraphModel dx="891" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="499" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;十进制计数器&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="110" x="340" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-2" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=off;" value="" vertex="1">
+          <mxGeometry height="20" width="75" x="200" y="323.55" as="geometry" />
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-3" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.pulse_1;" value="" vertex="1">
+          <mxGeometry height="20" width="30" x="290" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-4" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display_with_dp;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="96.9" width="79.8" x="510" y="321.55" as="geometry" />
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-5" edge="1" parent="1" source="vOKEsWYY97WeC1IsEeVK-2" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="410" as="sourcePoint" />
+            <mxPoint x="340" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-6" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=off;" value="" vertex="1">
+          <mxGeometry height="20" width="75" x="200" y="383.55" as="geometry" />
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-7" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.pulse_1;" value="" vertex="1">
+          <mxGeometry height="20" width="30" x="290" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-8" edge="1" parent="1" source="vOKEsWYY97WeC1IsEeVK-6" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="470" as="sourcePoint" />
+            <mxPoint x="340" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="y9S_lrRwPfQBp-4ehz9z" name="时序图">
-    <mxGraphModel dx="615" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1496" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
