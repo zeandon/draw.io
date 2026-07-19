@@ -84,7 +84,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="二选一数据选择器实际连接图" id="6iSL4LLNLeP64zg-uhsz">
-    <mxGraphModel dx="935" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Cs2yhsRsTSSyQPGhpSB9-0" />
         <mxCell id="Cs2yhsRsTSSyQPGhpSB9-1" parent="Cs2yhsRsTSSyQPGhpSB9-0" />
@@ -97,13 +97,13 @@
         <mxCell id="a5cPVpmgFQSKqHSlkgEm-0" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="274" width="220" x="94" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="Cs2yhsRsTSSyQPGhpSB9-8" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.abstract.mux2;whiteSpace=wrap;" value="Mux" vertex="1">
-          <mxGeometry height="120" width="80" x="410" y="390" as="geometry" />
+        <mxCell id="Cs2yhsRsTSSyQPGhpSB9-8" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.abstract.mux2;whiteSpace=wrap;fontSize=15;fontStyle=1" value="Mux" vertex="1">
+          <mxGeometry height="120" width="110" x="370" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="Cs2yhsRsTSSyQPGhpSB9-12" edge="1" parent="Cs2yhsRsTSSyQPGhpSB9-1" source="a5cPVpmgFQSKqHSlkgEm-30" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.375;entryY=1;entryDx=10;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="Cs2yhsRsTSSyQPGhpSB9-8" value="">
+        <mxCell id="Cs2yhsRsTSSyQPGhpSB9-12" edge="1" parent="Cs2yhsRsTSSyQPGhpSB9-1" source="a5cPVpmgFQSKqHSlkgEm-30" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.4090909090909091;entryY=1;entryDx=10;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="Cs2yhsRsTSSyQPGhpSB9-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="542" />
+              <mxPoint x="425" y="541" />
             </Array>
             <mxPoint x="304" y="516" as="sourcePoint" />
             <mxPoint x="450" y="530" as="targetPoint" />
@@ -284,7 +284,7 @@
           <mxGeometry height="36" width="53.74" x="583.13" y="510" as="geometry" />
         </mxCell>
         <mxCell id="a5cPVpmgFQSKqHSlkgEm-49" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="杜邦线" vertex="1">
-          <mxGeometry height="30" width="50" x="340" y="390" as="geometry" />
+          <mxGeometry height="30" width="50" x="323" y="390" as="geometry" />
         </mxCell>
         <mxCell id="a5cPVpmgFQSKqHSlkgEm-50" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;rotation=-180;" value="" vertex="1">
           <mxGeometry height="26" width="75" x="166.5" y="528" as="geometry" />
@@ -318,6 +318,18 @@
             <mxPoint x="238.5" y="540.91" as="sourcePoint" />
             <mxPoint x="263" y="540.91" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a5cPVpmgFQSKqHSlkgEm-56" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO47" vertex="1">
+          <mxGeometry height="30" width="50" x="400" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="a5cPVpmgFQSKqHSlkgEm-57" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO18&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3BfontFamily%3DHelvetica%3BfontSize%3D12%3BfontColor%3Ddefault%3B%22%20value%3D%22IO47%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2230%22%20width%3D%2250%22%20x%3D%22400%22%20y%3D%22466%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="373" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="a5cPVpmgFQSKqHSlkgEm-60" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO46" vertex="1">
+          <mxGeometry height="30" width="50" x="373" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="a5cPVpmgFQSKqHSlkgEm-61" parent="Cs2yhsRsTSSyQPGhpSB9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO48" vertex="1">
+          <mxGeometry height="30" width="50" x="430" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
