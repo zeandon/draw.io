@@ -540,12 +540,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="电路图 的副本" id="l_FuRqtU7vCLOh4_wAxR">
-    <mxGraphModel dx="855" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="288" dy="159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qgPFzegNI2VPlbXlrcSu-0" />
         <mxCell id="qgPFzegNI2VPlbXlrcSu-1" parent="qgPFzegNI2VPlbXlrcSu-0" />
-        <mxCell id="qgPFzegNI2VPlbXlrcSu-2" parent="qgPFzegNI2VPlbXlrcSu-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;十进制计数器&lt;/font&gt;" vertex="1">
-          <mxGeometry height="100" width="110" x="340" y="320" as="geometry" />
+        <mxCell id="qgPFzegNI2VPlbXlrcSu-2" parent="qgPFzegNI2VPlbXlrcSu-1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=20;" value="&lt;font&gt;十 进 制 计 数 器&lt;/font&gt;" vertex="1">
+          <mxGeometry height="250" width="140" x="274" y="80" as="geometry" />
         </mxCell>
         <mxCell id="CVo1I3Eyl4qdEw_buXIy-0" parent="qgPFzegNI2VPlbXlrcSu-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="355" width="220" x="20" y="35" as="geometry" />
@@ -720,6 +720,18 @@
             <mxPoint x="55.69" y="154.95" as="sourcePoint" />
             <mxPoint x="92.69" y="154.95" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CVo1I3Eyl4qdEw_buXIy-42" parent="qgPFzegNI2VPlbXlrcSu-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO16" vertex="1">
+          <mxGeometry height="30" width="40" x="274" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="CVo1I3Eyl4qdEw_buXIy-43" parent="qgPFzegNI2VPlbXlrcSu-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO18" vertex="1">
+          <mxGeometry height="30" width="40" x="274" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="CVo1I3Eyl4qdEw_buXIy-44" parent="qgPFzegNI2VPlbXlrcSu-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO3" vertex="1">
+          <mxGeometry height="30" width="40" x="274" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CVo1I3Eyl4qdEw_buXIy-45" parent="qgPFzegNI2VPlbXlrcSu-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="IO10" vertex="1">
+          <mxGeometry height="30" width="40" x="274" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
