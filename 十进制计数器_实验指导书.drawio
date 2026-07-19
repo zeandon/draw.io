@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="电路图" id="rVCkrL_XqYwWZFXW6DUm">
-    <mxGraphModel dx="499" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="vOKEsWYY97WeC1IsEeVK-3" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.pulse_1;" value="" vertex="1">
           <mxGeometry height="20" width="30" x="290" y="310" as="geometry" />
-        </mxCell>
-        <mxCell id="vOKEsWYY97WeC1IsEeVK-4" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display_with_dp;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="96.9" width="79.8" x="510" y="321.55" as="geometry" />
         </mxCell>
         <mxCell id="vOKEsWYY97WeC1IsEeVK-5" edge="1" parent="1" source="vOKEsWYY97WeC1IsEeVK-2" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -33,6 +30,27 @@
             <mxPoint x="330" y="470" as="sourcePoint" />
             <mxPoint x="340" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-9" edge="1" parent="1" source="vOKEsWYY97WeC1IsEeVK-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="345" as="sourcePoint" />
+            <mxPoint x="570" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="393.48" as="sourcePoint" />
+            <mxPoint x="570" y="393.48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-11" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display_with_dp;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="96.9" width="79.8" x="580" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="位选信号" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vOKEsWYY97WeC1IsEeVK-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="段选信号" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
