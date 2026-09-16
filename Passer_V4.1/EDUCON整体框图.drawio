@@ -52,9 +52,6 @@
         <mxCell id="03mpN7bY1IFHWt4we20m-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;TVS Diode&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="90" x="205.5" y="740.6800000000001" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="板载LED" vertex="1">
-          <mxGeometry height="60" width="140" x="185.5" y="997.5" as="geometry" />
-        </mxCell>
         <mxCell id="03mpN7bY1IFHWt4we20m-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" value="3.3V" vertex="1">
           <mxGeometry height="30" width="60" x="735" y="715" as="geometry" />
         </mxCell>
@@ -64,14 +61,14 @@
         <mxCell id="03mpN7bY1IFHWt4we20m-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" value="3.3V" vertex="1">
           <mxGeometry height="30" width="60" x="735" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" value="下载器供电" vertex="1">
-          <mxGeometry height="30" width="100" x="715" y="745" as="geometry" />
+        <mxCell id="03mpN7bY1IFHWt4we20m-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" value="&lt;span class=&quot;&quot;&gt;Power for&lt;br&gt;Downloader&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="715" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" value="外设供电" vertex="1">
-          <mxGeometry height="30" width="90" x="720" y="1071.25" as="geometry" />
+        <mxCell id="03mpN7bY1IFHWt4we20m-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" value="Power for&lt;br&gt;Peripherals" vertex="1">
+          <mxGeometry height="50" width="100" x="715" y="1069.25" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" value="FPGA供电" vertex="1">
-          <mxGeometry height="30" width="100" x="715" y="900" as="geometry" />
+        <mxCell id="03mpN7bY1IFHWt4we20m-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" value="&lt;span class=&quot;&quot;&gt;Power for&lt;br&gt;FPGA&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="720" y="897" as="geometry" />
         </mxCell>
         <mxCell id="03mpN7bY1IFHWt4we20m-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;Oscillator&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="600" y="740.68" as="geometry" />
@@ -103,10 +100,10 @@
         <mxCell id="03mpN7bY1IFHWt4we20m-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;Configuration Interface&lt;/span&gt;" vertex="1">
           <mxGeometry height="38.69" width="145" x="535" y="846" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-46" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" value="&lt;font&gt;电源系统&lt;/font&gt;" vertex="1">
+        <mxCell id="03mpN7bY1IFHWt4we20m-46" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" value="&lt;strong&gt;&lt;span class=&quot;&quot;&gt;Power System&lt;/span&gt;&lt;/strong&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="837.5" y="703.74" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-47" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" value="外设" vertex="1">
+        <mxCell id="03mpN7bY1IFHWt4we20m-47" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" value="&lt;span class=&quot;&quot;&gt;Peripherals&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="141" x="34" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="03mpN7bY1IFHWt4we20m-50" edge="1" parent="1" source="03mpN7bY1IFHWt4we20m-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;entryX=0.122;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.109;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" value="">
@@ -139,16 +136,16 @@
         <mxCell id="03mpN7bY1IFHWt4we20m-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;Oscillator&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="557.5" y="898.5" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="PMOD接口" vertex="1">
+        <mxCell id="03mpN7bY1IFHWt4we20m-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt; PMOD Interface&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="500" y="1072.5" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="七段数码管" vertex="1">
+        <mxCell id="03mpN7bY1IFHWt4we20m-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;7-segment Display&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="470" y="997.5" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="开关" vertex="1">
+        <mxCell id="03mpN7bY1IFHWt4we20m-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="Switch" vertex="1">
           <mxGeometry height="60" width="140" x="340" y="1072.5" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="按键" vertex="1">
+        <mxCell id="03mpN7bY1IFHWt4we20m-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;Button&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="185.5" y="1072.5" as="geometry" />
         </mxCell>
         <mxCell id="03mpN7bY1IFHWt4we20m-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="LED" vertex="1">
