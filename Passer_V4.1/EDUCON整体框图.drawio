@@ -40,13 +40,13 @@
         <mxCell id="03mpN7bY1IFHWt4we20m-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="TYPE-C" vertex="1">
           <mxGeometry height="46.87" width="120" x="842.5" y="771" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="电源总开关" vertex="1">
+        <mxCell id="03mpN7bY1IFHWt4we20m-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;Main Power Switch&lt;/span&gt;" vertex="1">
           <mxGeometry height="46.87" width="120" x="842.5" y="868.81" as="geometry" />
         </mxCell>
         <mxCell id="03mpN7bY1IFHWt4we20m-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="LDO" vertex="1">
           <mxGeometry height="46.87" width="120" x="842.5" y="1068.75" as="geometry" />
         </mxCell>
-        <mxCell id="03mpN7bY1IFHWt4we20m-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="自恢复保险丝" vertex="1">
+        <mxCell id="03mpN7bY1IFHWt4we20m-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;Resettable Fuse&lt;/span&gt;" vertex="1">
           <mxGeometry height="46.87" width="120" x="842.5" y="967.5" as="geometry" />
         </mxCell>
         <mxCell id="03mpN7bY1IFHWt4we20m-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" value="&lt;span class=&quot;&quot;&gt;TVS Diode&lt;/span&gt;" vertex="1">
